@@ -1,0 +1,42 @@
+<?xml version ="1.0" encoding="UTF−8"?>
+
+<estudiante NoCuenta="317275605">
+
+  <Nombre>
+    Liprandi Cortes Rodrigo
+  </Nombre>
+
+  <edad>
+    17 años
+  </edad>
+
+  <correo>
+    godites@live.com
+  </correo>
+
+  <sexo>
+    Masculino
+  </sexo>
+
+</estudiante>
+
+<estudiante Nocuenta="317161982">
+
+  <nombre>
+    Cruz Gonzalez Irvin Javier
+  </nombre>
+
+  <edad>
+    18 años
+  </edad>
+
+  <correo>
+
+    barrryyallen@gmail.com
+  </correo>
+
+  <sexo>
+    hombre
+  </sexo>
+
+</estudiante> 
